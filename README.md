@@ -11,7 +11,7 @@
 
 | Projeto | O que resolve | Status | Stack |
 |---|---|---|---|
-| [**Reativa**](https://github.com/Uugaren/n8n-ai-workflows/tree/main/reativa) | Agente de WhatsApp que faz pós-venda, reativação e indicações de clientes de óticas, com RAG, áudio e transferência para humano | Em produção · freelance de R$ 3.000 | n8n, OpenAI, Supabase pgvector, Redis |
+| [**Reativa**](https://github.com/Uugaren/n8n-ai-workflows/tree/main/reativa) | Agente de WhatsApp que faz pós-venda, reativação e indicações de clientes de óticas, com RAG, áudio e transferência para humano | Em produção | n8n, OpenAI, Supabase pgvector, Redis |
 | [**Smart Menu**](https://github.com/Uugaren/SmartMenu) | Gera, edita e imprime o cardápio mensal de três casas de repouso, com dietas para diabéticos e pastosos e lista de compras | v1 em uso real · indo para SaaS | Next.js, TypeScript, Supabase |
 | **BI com IA na Diskpan** | Mapeamento do banco do ERP WinThor e consultas SQL geradas e validadas com IA para relatórios da operação | Em andamento | SQL, WinThor, Claude |
 | **Bot do portal acadêmico** | Monitora prazos do portal da UVV 24/7 para eu não perder nenhuma atividade | Rodando numa VPS | Python, Oracle Cloud |
