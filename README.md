@@ -3,7 +3,7 @@
 Construo automações, agentes e ferramentas que resolvem problemas reais de negócio, do levantamento da dor até o sistema rodando.
 
 - 🎓 Ciência da Computação na **UVV** (formatura em dez/2027)
-- 📊 Assistente de TI na **Diskpan**, indústria de panificação para food service, onde sou o precursor de dashboards e BI com IA
+- 📊 Assistente de TI na **Diskpan**, Distribuidora de produtos para panificação e food-service, onde sou o precursor de dashboards e BI com IA
 - 🤖 Freelancer de automação com IA em **n8n**
 - 📍 Espírito Santo, Brasil
 
