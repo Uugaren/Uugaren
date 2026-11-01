@@ -1,6 +1,6 @@
 # Olá, sou o Arthur 👋
 
-**AI Builder** · construo automações, agentes e ferramentas com IA que resolvem problemas reais de negócio, do levantamento da dor até o sistema rodando.
+**AI Builder** · construo automações, agentes e ferramentas que resolvem problemas reais de negócio, do levantamento da dor até o sistema rodando.
 
 - 🎓 Ciência da Computação na **UVV** (formatura em dez/2027)
 - 📊 Assistente de TI na **Diskpan**, indústria de panificação para food service, onde sou o precursor de dashboards e BI com IA
@@ -18,16 +18,9 @@
 
 ## Como eu trabalho
 
-- **Começo pela dor, não pela ferramenta.** Cada projeto acima nasceu de um problema de alguém: uma ótica sem pós-venda, um cardápio montado à mão todo mês, um prazo perdido.
+- **Começo pela dor, não pela ferramenta.** Cada projeto abaixo nasceu de um problema de alguém: uma ótica sem pós-venda, um cardápio montado à mão todo mês, um prazo perdido.
 - **IA com guarda-corpos.** RAG para responder só o que é verdade, humano no circuito quando a IA não sabe e estado guardado no banco, não no prompt.
 - **Entrego rápido e itero com quem usa.** O Smart Menu ganhou drag-and-drop e lista de compras a partir do feedback semanal da usuária.
-
-## Ferramentas
-
-**IA:** Claude · GPT · Gemini · prompt engineering · agentes com ferramentas e memória · RAG
-**Automação:** n8n · webhooks · APIs REST · WhatsApp · Redis
-**Dados:** SQL · Supabase / PostgreSQL · pgvector · BI
-**Código:** TypeScript · React · Next.js · Python · vibe coding
 
 ## Contato
 
