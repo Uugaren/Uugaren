@@ -1,6 +1,6 @@
 # Olá, sou o Arthur 👋
 
-**AI Builder** · construo automações, agentes e ferramentas que resolvem problemas reais de negócio, do levantamento da dor até o sistema rodando.
+Construo automações, agentes e ferramentas que resolvem problemas reais de negócio, do levantamento da dor até o sistema rodando.
 
 - 🎓 Ciência da Computação na **UVV** (formatura em dez/2027)
 - 📊 Assistente de TI na **Diskpan**, indústria de panificação para food service, onde sou o precursor de dashboards e BI com IA
